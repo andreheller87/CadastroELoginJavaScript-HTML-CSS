@@ -1,0 +1,33 @@
+
+header{
+    background-image: url("../Image/jogador-profissional-jogando-torneios-de-jogos-online-computador-pc-com-fones-ouvido-tela-fundo-desfocada-e-azul-164145432.jpg");
+    padding: 25px;
+    
+
+    }
+
+    button{
+        background-color: black;
+        border-color: #000000;
+        color: #efeaea;
+        padding: 10px 35px;
+        font-weight: bold;
+        font-size: 12pt;
+        margin-left: 90vw;
+        border-radius: 4px;
+        cursor: pointer;
+        outline: none;
+        transition: all .4s ease-out;
+      }
+      
+      button:hover{
+        background-color: #f6f6f9;
+        color: #f30808;
+      }
+.header{
+    margin-top: 25px;
+
+    text-align: center;
+    color: rgb(224, 214, 17);
+  
+}
